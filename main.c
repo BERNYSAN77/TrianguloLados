@@ -6,7 +6,6 @@
   es, en caso de que el triángulo sea equilatero calcular el 
   área. 
 
-  
 
 */
 
